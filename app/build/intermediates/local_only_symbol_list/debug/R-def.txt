@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id frag2
+id frag3
+id fragment1
+id fragment2
+id fragment3
+id textView
+layout activity_main
+layout fragment_1
+layout fragment_2
+layout fragment_3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Exp7
+style Theme.Exp7
+xml backup_rules
+xml data_extraction_rules
